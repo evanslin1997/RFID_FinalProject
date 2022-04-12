@@ -1,0 +1,33 @@
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.exe.config
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.exe
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.pdb
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.Form1.resources
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.Properties.Resources.resources
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csproj.GenerateResource.Cache
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.exe
+F:\Youtube Channel\Dotnet Mob\C# tutorials\c# Crud in mysql\project\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.pdb
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csproj.AssemblyReference.cache
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.Form1.resources
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.Properties.Resources.resources
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csproj.GenerateResource.cache
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csproj.CoreCompileInputs.cache
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.exe
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.pdb
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.exe.config
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.exe
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.pdb
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\MySql.Data.dll
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\ZstdNet.dll
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\System.Memory.dll
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\MySql.Data.xml
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.exe.config
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csproj.CopyComplete
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\System.Buffers.dll
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\j1996\Desktop\MySqlCRUD\MySqlCRUD\bin\Debug\K4os.Hash.xxHash.dll
